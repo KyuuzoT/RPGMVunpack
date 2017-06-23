@@ -1,0 +1,10 @@
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\bin\Debug\RPGMVunpack.exe.config
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\bin\Debug\RPGMVunpack.exe
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\bin\Debug\RPGMVunpack.pdb
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.csprojResolveAssemblyReference.cache
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.Form1.resources
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.Properties.Resources.resources
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.csproj.GenerateResource.Cache
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.exe
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\obj\Debug\RPGMVunpack.pdb
+c:\users\kyuuzot\documents\visual studio 2015\Projects\RPGMVunpack\RPGMVunpack\bin\Debug\Newtonsoft.Json.dll
